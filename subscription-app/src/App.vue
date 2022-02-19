@@ -20,4 +20,11 @@
     font-size: 40px;
     font-weight: bolder;
   }
+@media only screen and (min-width: 768px) {
+  .main-header{
+    padding-top: 20px;
+    margin: 20px;
+  }
+    
+  }
 </style>
